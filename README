@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3763
+
+https://github.com/dubenstein/vim-google-scribe
+
+Google Scribe provides text completion service. Using information from what you have already typed in a document, Google Scribe provides related word or phrase completion suggestions. In addition to saving keystrokes, Google Scribe's suggestions indicate correct or popular phrases to use.
+
+vim-google-scribe requires an installation of Vim compiled with python support.
+
